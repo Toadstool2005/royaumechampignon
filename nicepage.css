@@ -43064,7 +43064,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {
-  background-image: linear-gradient(0deg, rgba(239,233,252,0.25), rgba(239,233,252,0.25)), url("images/20240812_001040_0000.png");
+  background-image: linear-gradient(0deg, rgba(239,233,252,0.25), rgba(239,233,252,0.25)), url('images/20240812_001040_0000.png');
   background-position: 50% 50%;
 }
 

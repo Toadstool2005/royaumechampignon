@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("images/20240812_001040_0000.png");
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url('images/20240812_001040_0000.png');
   background-position: 50% 50%;
 }
 
@@ -172,7 +172,7 @@
     width: 340px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("images/20240812_001040_0000.png");
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url('images/20240812_001040_0000.png');
   background-position: 50% 50%;
 }
 
