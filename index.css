@@ -411,4 +411,18 @@
   .u-section-3 .u-group-1 {
     width: 340px;
   }
-} Se connecter avec Discord 
+}.btn-discord {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #7289da;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+.btn-discord:hover {
+    background-color: #5a73bc;
+}
+#user-avatar {
+    display: none; /* L'avatar est caché par défaut */
+} 
